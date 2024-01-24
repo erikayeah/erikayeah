@@ -3,9 +3,8 @@
 <h3 align="left">🎓 My career path has led me through various experiences, and my curiosity drives me to continue learning and specializing in different methodologies and tools. During the pandemic, I started exploring the unlimited opportunities in IT development. Since then, I have been on a journey of learning and creating. </h3>
 <h3 align="left">💻 Currently, I am working on frontend development projects, particularly using the following technologies and languages: Javascript, React, Redux, Typescript, Vuejs, HTML, and CSS. </h3>
 <h3 align="left">💼 I am currently interested in new opportunities that challenge my professional growth. Excited to join an inspiring team and learn together! </h3>
-<h3 align="left">🙋🏻‍♀️ If my profile resonates with your project, feel free to reach out to me at erikafogar.j@gmail.com.</h3>
 
-<h4 align="left"> A little more about me: </h4>
+<h3 align="left"> A little more about me: </h3>
 
 - 🔭 I’m currently studing on [Henry's Bootcamp](https://www.soyhenry.com/)
 
@@ -13,9 +12,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/erikayeah](https://github.com/erikayeah)
 
-- 📫 How to reach me **erikafogar.j@gmail.com**
+- 📫 If my profile resonates with your project, feel free to reach out to me at **erikafogar.j@gmail.com** <h3 align="left">
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/erikafogar-front-end-developer/](https://www.linkedin.com/in/erikafogar-front-end-developer/)
+- 📄 Know about all my professional experiences [here](https://www.linkedin.com/in/erikafogar-front-end-developer/)
 
 - ⚡ Fun fact **I'm a nice weirdo and a cat person.**
 
