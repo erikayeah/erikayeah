@@ -9,7 +9,7 @@
 <h3 align="left">💼 I am currently interested in new opportunities that challenge my professional growth. Excited to join an inspiring team and learn together! </h3>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJwbHA2bXFnZzNicnVlZTYwYXNjcjJ5bG9xbDU0YXJycDk2ZXh6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" alt="Hello" width="20%">
+  <img src="https://media2.giphy.com/media/3ohhwoy4AB7fXp0GVq/200.webp?cid=790b7611hdw3i2tpjpdrhrl8cyy65cje5ljj8r292ujjb4s7&ep=v1_gifs_search&rid=200.webp&ct=g" alt="Hello" width="20%">
 </p>
 
 <h3 align="left"> A little more about me: </h3>
