@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="left">🎓 My career path has led me through various experiences, and my curiosity drives me to continue learning and specializing in different methodologies and tools. During the pandemic, I started exploring the unlimited opportunities in IT development. Since then, I have been on a journey of learning and creating. </h3>
-<h3 align="left">💻 Currently, I am working on frontend development projects, particularly using the following technologies and languages: Javascript, React, Redux, Typescript, Vuejs, HTML, and CSS. </h3>
+<h3 align="left">💻 I am actively engaged in frontend development projects, focusing on technologies and languages such as Javascript, React, Redux, Typescript, Vuejs, HTML, and CSS. </h3>
 <h3 align="left">💼 I am currently interested in new opportunities that challenge my professional growth. Excited to join an inspiring team and learn together! </h3>
 
 <p align="center">
