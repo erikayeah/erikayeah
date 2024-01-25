@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently studing on [Henry's Bootcamp](https://www.soyhenry.com/)
 
-- 🌱 I’m currently learning **Typescript, Tailwind and Vue.**
+- 🌱 I’m currently learning **Typescript, Tailwind and Vuejs.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/erikayeah](https://github.com/erikayeah)
 
