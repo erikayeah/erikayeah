@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/87T7Wwz/Banner-de-Linked-In-Tecnologi-a-Negro-1.jpg" alt="Hello" width="20%">
+  <img src="https://i.ibb.co/87T7Wwz/Banner-de-Linked-In-Tecnologi-a-Negro-1.jpg" alt="Hello" width="90%">
 </p>
 
 <h1 align="center">👋 I'm a Front End Web Developer.</h1>
