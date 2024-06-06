@@ -7,7 +7,7 @@
 
 <h3 align="left">🎓 My career path has led me through various experiences, and my curiosity drives me to continue learning and specializing in different methodologies and tools. During the pandemic, I started exploring the unlimited opportunities in IT development. Since then, I have been on a journey of learning and creating. </h3>
 <h3 align="left">💻 I am actively engaged in frontend development projects, focusing on technologies and languages such as Javascript, React, Redux, React Native, Vuejs, HTML, and CSS. </h3>
-<h3 align="left">💼 I am currently working with Think & Dev </h3>
+<h3 align="left">💼 I am currently working with Think & Dev as a product Developer </h3>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/3ohhwoy4AB7fXp0GVq/200.webp?cid=790b7611hdw3i2tpjpdrhrl8cyy65cje5ljj8r292ujjb4s7&ep=v1_gifs_search&rid=200.webp&ct=g" alt="Hello" width="38%">
@@ -15,9 +15,9 @@
 
 <h3 align="left"> A little more about me: </h3>
 
-- 🔭 I’m currently studing on [Henry's Bootcamp](https://www.soyhenry.com/)
+- 🔭 I’m currently living in Spain
 
-- 🌱 I’m currently learning **React Native, Tailwind and Vuejs.**
+- 🌱 I’m currently learning **Blockchain and Typescript.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/erikayeah](https://github.com/erikayeah)
 
