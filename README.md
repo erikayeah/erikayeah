@@ -23,7 +23,7 @@
 
 - 📫 If my profile resonates with your project, feel free to reach out to me at **erikafogar.j@gmail.com** <h3 align="left">
 
-- 📄 Know about all my professional experiences [here](https://www.linkedin.com/in/erikafogar-front-end-developer/)
+- 📄 Know about all my professional experiences [here](https://www.linkedin.com/in/ejff/)
 
 - ⚡ Fun fact **I'm a nice weirdo and a cat person.**
 
