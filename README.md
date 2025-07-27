@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Erika Judith Fogar</h1>
 <h3 align="center">💻 Full Stack Web Developer | JavaScript | React | Node.js | Express | MongoDB</h3>
 
-<p align="center"><em>From people and processes to code and platforms — I'm building my way into tech, one step at a time.</em></p>
+<p align="center"><em>From people and processes to digital projects and code — I'm building my way into tech, one step at a time.</em></p>
 
 ---
 
