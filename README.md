@@ -51,9 +51,7 @@ Git, GitHub, Postman, Jira, Trello, Slack
 
 ### 🔍 Currently exploring
 
-I'm currently learning about **TDD**, **GitLab CI**, **Docker** and **AWS (S3, Cloud9)** to better understand deployment, testing, and DevOps workflows.  
-I'm also getting familiar with **Kubernetes basics**, just enough to understand how everything fits together in scalable modern architectures.
-
+I'm currently exploring TDD, GitLab CI, Docker, and AWS (S3, Cloud9) to better understand how testing, deployment, and automation fit into modern development workflows.
 ---
 
 <p align="center">
