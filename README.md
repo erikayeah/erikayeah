@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://i.ibb.co/87T7Wwz/Banner-de-Linked-In-Tecnologi-a-Negro-1.jpg" alt="Hello" width="90%">
+  <img src="https://i.ibb.co/87T7Wwz/Banner-de-Linked-In-Tecnologi-a-Negro-1.jpg" alt="Banner" width="90%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Erika Judith Fogar</h1>
 <h3 align="center">💻 Full Stack Web Developer | JavaScript | React | Node.js | Express | MongoDB</h3>
 
-<h3 align="left">🎓 My career path has led me through various experiences, and my curiosity drives me to continue learning and specializing in different methodologies and tools. During the pandemic, I started exploring the unlimited opportunities in IT development. Since then, I have been on a journey of learning and creating. </h3>
-<h3 align="left">💻 I am actively engaged in frontend development projects, focusing on technologies and languages such as Javascript, React, Redux, React Native, Vuejs, HTML, and CSS. </h3>
+<p align="center"><em>From people and processes to code and platforms — I'm building my way into tech, one step at a time.</em></p>
 
 ---
 
