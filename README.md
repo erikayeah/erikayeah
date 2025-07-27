@@ -54,18 +54,16 @@ Getting familiar with **TDD**, **GitLab CI**, **Docker**, and **AWS** to underst
 
 ---
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/3ohhwoy4AB7fXp0GVq/200.webp?cid=790b7611hdw3i2tpjpdrhrl8cyy65cje5ljj8r292ujjb4s7&ep=v1_gifs_search&rid=200.webp&ct=g" alt="Let's be amazing together" width="38%">
-</p>
-
----
-
 ### 🤝 Let's connect!
 
 - 📫 Reach me at: **erikafogar.j@gmail.com**
 - 🌐 [LinkedIn](https://www.linkedin.com/in/erikafogar-front-end-developer/)
 - 💬 [Stack Overflow](https://stackoverflow.com/users/21261799)
 - 💻 [Portfolio](https://erikafogar-f7rz.onrender.com/)
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/3ohhwoy4AB7fXp0GVq/200.webp?cid=790b7611hdw3i2tpjpdrhrl8cyy65cje5ljj8r292ujjb4s7&ep=v1_gifs_search&rid=200.webp&ct=g" alt="Let's be amazing together" width="38%">
+</p>
 
 ---
 
