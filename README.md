@@ -67,4 +67,4 @@ Getting familiar with **TDD**, **GitLab CI**, **Docker**, and **AWS** to underst
 ---
 
 ### ⚡ Fun fact
-I’m a curious cat person who loves debugging almost as much as cat memes 😸
+Somewhere between "slightly weird" and "fully cat-obsessed" — and loving the journey into tech. 😸
