@@ -13,7 +13,7 @@
 
 I'm a **Full Stack Developer** with a background in team coordination and agile project management. My career path led me from working with people to building products that serve them.
 
-During the pandemic, I shifted to tech — and since then, I’ve been committed to learning, building, and improving every day. I’ve worked on projects that include e-commerce platforms, blockchain apps, and RESTful APIs, both on the frontend and backend.
+During the pandemic, I shifted to tech — and since then, I’ve been committed to learning, building, and improving. I’ve worked on projects that include e-commerce platforms, blockchain apps, and RESTful APIs, both on the frontend and backend.
 
 Right now, I'm focused on growing as a **MERN developer** (MongoDB, Express, React, Node.js), while deepening my backend and DevOps knowledge.
 
@@ -29,7 +29,7 @@ I'm committed to growing as a developer through hands-on practice and ongoing le
 
 🧠 Many of the projects I’ve worked on involved frontend development, API integrations, and solving real-world issues — all focused on improving usability and reliability.
 
-👉 You can find more about my professional journey on [LinkedIn](https://www.linkedin.com/in/erikafogar-front-end-developer/) or by visiting my [portfolio](https://erikafogar-f7rz.onrender.com/).
+👉 You can find more about my professional journey on <a href="https://www.linkedin.com/in/ejff/" target="_blank">LinkedIn</a> or by visiting my <a href="https://erikafogar-f7rz.onrender.com/" target="_blank">portfolio</a>.
 
 ---
 
