@@ -57,7 +57,7 @@ Getting familiar with **TDD**, **GitLab CI**, **Docker**, and **AWS** to underst
 ### 🤝 Let's connect!
 
 - 📫 Reach me at: **erikafogar.j@gmail.com**
-- 🌐 [LinkedIn](https://www.linkedin.com/in/erikafogar-front-end-developer/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ejff/)
 - 💬 [Stack Overflow](https://stackoverflow.com/users/21261799)
 - 💻 [Portfolio](https://erikafogar-f7rz.onrender.com/)
 
